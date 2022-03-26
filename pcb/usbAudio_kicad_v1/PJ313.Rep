@@ -1,0 +1,11 @@
+Export log for : PJ313.Rep
+AddingPadStyle (Default)
+AddingPadStyle P:EX66Y66D661
+AddingPadStyle P:EX79Y79D391
+Adding ViaStyle (Default)
+Adding TextStyle (Default)
+Adding TextStyle T:H60W10
+Adding PatternDef PHONE_ST_1
+Adding CompDef PHONE_ST_1
+ 
+EndLog

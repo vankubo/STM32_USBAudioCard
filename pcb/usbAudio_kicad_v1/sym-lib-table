@@ -1,0 +1,12 @@
+(sym_lib_table
+  (lib (name "CP2102GMR")(type "Legacy")(uri "${KIPRJMOD}/lib/cp2102gmr/CP2102GMR.lib")(options "")(descr ""))
+  (lib (name "WM8978GEFL")(type "Legacy")(uri "${KIPRJMOD}/lib/wm8978/WM8978GEFL.lib")(options "")(descr ""))
+  (lib (name "fpc05mm_8p")(type "Legacy")(uri "${KIPRJMOD}/lib/fpc/fpc05mm_8p.lib")(options "")(descr ""))
+  (lib (name "SJ2-3573A-SMT-TR")(type "Legacy")(uri "${KIPRJMOD}/lib/3.5AudioHeader/SJ2-3573A-SMT-TR.lib")(options "")(descr ""))
+  (lib (name "SKQGAKE010")(type "Legacy")(uri "${KIPRJMOD}/lib/Button_SMD/SKQGAKE010.lib")(options "")(descr ""))
+  (lib (name "CMC-6015-47P")(type "Legacy")(uri "${KIPRJMOD}/lib/microphone/6mm/CMC-6015-47P.lib")(options "")(descr ""))
+  (lib (name "USBMicroB")(type "Legacy")(uri "${KIPRJMOD}/lib/USB_MicroB/USBMicroB.lib")(options "")(descr ""))
+  (lib (name "usrTFTLCD")(type "Legacy")(uri "${KIPRJMOD}/lib/TFTLCD/usrTFTLCD.lib")(options "")(descr ""))
+  (lib (name "TPA6138A2PWR")(type "Legacy")(uri "${KIPRJMOD}/lib/TPA6138A2PWR/TPA6138A2PWR.lib")(options "")(descr ""))
+  (lib (name "MicroUSB")(type "Legacy")(uri "${KIPRJMOD}/lib/Micro_USB_MID_MNT/MicroUSB.lib")(options "")(descr ""))
+)

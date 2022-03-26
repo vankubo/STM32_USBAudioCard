@@ -1,0 +1,3 @@
+3DX_CUI_DEVICES_Supplier: CUI Devices
+3DX_CUI_DEVICES_Description: 3 conductors, 3.5mm, SMT Audio Jack
+3DX_CUI_DEVICES_Model Number: SJ2-3573A-SMT-TR

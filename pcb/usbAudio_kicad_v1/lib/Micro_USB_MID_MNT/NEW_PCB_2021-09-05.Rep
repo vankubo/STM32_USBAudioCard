@@ -1,0 +1,12 @@
+Export log for : NEW_PCB_2021-09-05.Rep
+      Warning: Unknown Kind 11
+AddingPadStyle (Default)
+AddingPadStyle EF45X16TOP1
+AddingPadStyle P:EX55Y91D311
+Adding ViaStyle (Default)
+Adding TextStyle (Default)
+Adding TextStyle T:H45W6
+Adding PatternDef MICRO-USB-SMD_MICRO-5P-P0.8_1
+Adding CompDef MICRO-USB-SMD_MICRO-5P-P0.8_1
+ 
+EndLog

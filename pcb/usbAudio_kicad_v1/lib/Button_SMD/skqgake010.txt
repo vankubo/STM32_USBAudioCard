@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-04022015-104096";"";
+"REFERENCE";"SKQGAKE010";"";
+"TraceParts.PartTitle";"Stem Tactile Switch, Single Pole Single Throw (SPST) 50 mA @ 12 V dc 1.5mm";"";
+"TraceParts.InstanceId";"10-04022015-1040964SLL9C2QMN1KBGCNQL5SFGF1E";"";
+"DESIGN";"Stem Tactile Switch, Single Pole Single Throw (SPST) 50 mA @ 12 V dc 1.5mm";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"ALPS";"";
+"TraceParts.PartVersion";"1.0.4";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"ALPS:10-04022015-104096";"";

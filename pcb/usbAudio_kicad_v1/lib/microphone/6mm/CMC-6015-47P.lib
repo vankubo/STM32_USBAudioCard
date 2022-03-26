@@ -1,0 +1,30 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# CMC-6015-47P
+#
+DEF CMC-6015-47P MK 0 40 N N 1 L N
+F0 "MK" -100 150 50 H V L BNN
+F1 "CMC-6015-47P" -100 -250 50 H V L BNN
+F2 "CUI_CMC-6015-47P" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "CUI INC" 0 0 50 H I L BNN "MANUFACTURER"
+F5 "1" 0 0 50 H I L BNN "PARTREV"
+F6 "Manufacturer recommendations" 0 0 50 H I L BNN "STANDARD"
+DRAW
+C 0 0 100 0 0 10 N
+P 2 0 0 10 -100 100 -100 -100 N
+P 2 0 0 10 200 100 150 100 N
+P 2 0 0 10 150 100 150 50 N
+P 2 0 0 10 150 50 88 50 N
+P 2 0 0 10 200 -100 150 -100 N
+P 2 0 0 10 150 -100 150 -50 N
+P 2 0 0 10 150 -50 88 -50 N
+X ~ OUT 300 100 100 L 40 40 0 0 O 
+X ~ GND 300 -100 100 L 40 40 0 0 W 
+ENDDRAW
+ENDDEF
+#
+# End Library
